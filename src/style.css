@@ -2,7 +2,7 @@ body {
   margin: 0;
   color: white;
   font-family: monospace;
-  background-color: black;
+  background-color: #222222;
 }
 
 #output {
